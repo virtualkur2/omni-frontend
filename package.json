@@ -1,0 +1,28 @@
+{
+  "name": "omni-frontend",
+  "version": "0.0.1",
+  "description": "Omni Frontend views",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualkur2/omni-frontend.git"
+  },
+  "keywords": [
+    "OmniPC",
+    "Frontend",
+    "React"
+  ],
+  "author": "Mauricio Contreras Canepa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualkur2/omni-frontend/issues"
+  },
+  "homepage": "https://github.com/virtualkur2/omni-frontend#readme"
+}
