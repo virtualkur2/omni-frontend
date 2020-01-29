@@ -1,0 +1,44 @@
+#root{
+    width: 50%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    display: block;
+    margin: 5px 0px;
+}
+
+button{
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border:none;
+    font-weight: 600;
+    margin: 0px auto;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.left{
+    text-align: left;
+    float: left;
+    margin: 5px 15px;
+    font-size: 15px;
+}
+
+.right{
+    text-align: right;
+    float: right;
+    margin: 5px 15px;
+    font-size: 15px;
+}
